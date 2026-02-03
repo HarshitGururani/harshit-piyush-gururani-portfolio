@@ -1,0 +1,177 @@
+{
+  "settings": {
+    "name": "HARSHIT PIYUSH GURURANI",
+    "title": "Full Stack Developer",
+    "location": "India",
+    "summary": "Full Stack Developer skilled in React, Next.js, Node.js, and databases, passionate about building user-friendly and efficient web applications.",
+    "profileImage": "https://t4.ftcdn.net/jpg/04/31/64/75/360_F_431647519_usrbQ8Z983hTYe8zgA7t1XVc5fEtqcpa.jpg"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:harshit15gg@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "#"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "JavaScript",
+          "TypeScript",
+          "SQL",
+          "React.js",
+          "Next.js",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Prisma ORM",
+          "React Query",
+          "ShadCN UI",
+          "Tailwind CSS",
+          "Git",
+          "GitHub",
+          "Vercel",
+          "Render"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": false,
+      "title": "Work Experience",
+      "items": []
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "Study Mate (Full-Stack Web App)",
+          "description": "Developed a full-stack platform for BCA students to access study materials and integrated an AI-powered chatbot using OpenAI LLM for real-time assistance.",
+          "tags": [
+            "React.js",
+            "Next.js",
+            "Node.js",
+            "OpenAI LLM"
+          ],
+          "previewUrl": "https://studymate.example.com",
+          "repoUrl": "https://github.com/HarshitGururani/GitHubRepo"
+        },
+        {
+          "title": "Bookings.com (Hotel Booking App)",
+          "description": "Built a hotel booking platform with secure JWT authentication and Stripe API integration for seamless online payments, allowing users to book and list properties.",
+          "tags": [
+            "React.js",
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "JWT",
+            "Stripe API"
+          ],
+          "previewUrl": "https://booking.com.example.com",
+          "repoUrl": "https://github.com/HarshitGururani/GitHubRepo"
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Soban Singh Jeena University, Almora",
+          "degree": "Master in Computer Science",
+          "period": "2024 - Present"
+        },
+        {
+          "institution": "Soban Singh Jeena University, Almora",
+          "degree": "Bachelor in Computer Application (BCA)",
+          "period": "2021 - 2024"
+        },
+        {
+          "institution": "Kabira Convent and Jr. College, Nagpur",
+          "degree": "12th Grade/ SSC",
+          "period": "2021"
+        },
+        {
+          "institution": "St. Xaviers High School, Mira Road",
+          "degree": "10th Grade/ HSC",
+          "period": "2019"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "Next.js 15 and React-The Complete Guide",
+          "description": "Certification in Next.js 15 and React development."
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "harshit15gg@gmail.com",
+      "phone": "7417227258",
+      "location": "India"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "github",
+          "url": "https://github.com/HarshitGururani",
+          "icon": "github"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://linkedin.com/in/harshit-gururani/",
+          "icon": "linkedin"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 HARSHIT PIYUSH GURURANI. All rights reserved."
+  }
+}
